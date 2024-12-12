@@ -1,0 +1,14 @@
+1,2,3,4
+Qty,Items,Price,Total
+1,Tablet Computer Xwave B354 MSR,600.00$,600.00$
+2,Flash Drive 300GB USB3.0,120.00$,240.00$
+5,"E-readers RF Compatible, Wi-Fi",25.00$,125.00$
+4,Scanner XPS-900X 110VAC,650.00$,"2,600.00$"
+7,Lorem ipsum dolor sit amet Description of item 5 goes here,100.00$,700.00$
+2,Pellentesque habitant morbi Description of item 6 goes here,50.00$,100.00$
+2,Lorem ipsum dolor sit amet Description of item 7 goes here,50.00$,100.00$
+2,Lorem ipsum dolor sit amet Description of item 8 goes here,50.00$,100.00$
+2,Pellentesque habitant morbi Description of item 9 goes here,50.00$,100.00$
+,,SUB TOTAL:,"4,665.00$"
+,,TAX:,466.50$
+,,TOTAL:,"5,131.50$"
