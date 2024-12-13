@@ -38,7 +38,7 @@ def convert_to_greyscale(image, filename):
 
 
 if __name__ == "__main__":
-    '''
+
     import streamlit as st
     from pathlib import Path
 
@@ -73,17 +73,12 @@ if __name__ == "__main__":
         st.info("Please upload a PDF or Image file to extract information.")
 
 
-
-
-
-'''
-
-    import pandas as pd
-    folder_path = "POs"
-    pos, products = [], []
-    for file in ["Electronic-Purchase-Order-Template-TemplateLab.com_.pdf"]:
-    # os.listdir("POs"):
-        print(file)
-        pdf_path = os.path.join(folder_path, file)
-        po, product = lambda_handler(pdf_path)
-        print(po, product)
+    # import pandas as pd
+    # folder_path = "POs"
+    # pos, products = [], []
+    # for file in ["Electronic-Purchase-Order-Template-TemplateLab.com_.pdf"]:
+    # # os.listdir("POs"):
+    #     print(file)
+    #     pdf_path = os.path.join(folder_path, file)
+    #     po, product = lambda_handler(pdf_path)
+    #     print(po, product)
